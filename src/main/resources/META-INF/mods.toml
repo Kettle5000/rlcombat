@@ -1,0 +1,38 @@
+modLoader = "javafml"
+loaderVersion = "[38,)"
+#issueTrackerURL = ""
+license = "MIT"
+
+[[mods]]
+modId = "rlcombat"
+version = "${version}"
+displayName = "RLCombat Reforge"
+authors = "Kettle, Kwember and Fonny"
+description = '''
+Forked and updated version of RLCombat with added mechanics
+'''
+mixins=[
+    "rlcombat-common-mixins.json",
+    "rlcombat-mixins.json"
+]
+
+[[dependencies.rlcombat]]
+modId = "forge"
+mandatory = true
+versionRange = "[38,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.rlcombat]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.18,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.rlcombat]]
+modId = "pml"
+mandatory = true
+versionRange="[1.0.5b,)"
+ordering = "NONE"
+side = "BOTH"

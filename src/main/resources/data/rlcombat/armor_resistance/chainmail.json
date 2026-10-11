@@ -1,0 +1,5 @@
+{
+  "item" : ["minecraft:chainmail_helmet", "minecraft:chainmail_chestplate", "minecraft:chainmail_leggings", "minecraft:chainmail_boots"],
+  "damage_type" : "rlcombat:slashing",
+  "resistance" : 0.75
+}

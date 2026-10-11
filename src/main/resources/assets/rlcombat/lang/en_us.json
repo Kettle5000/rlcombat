@@ -1,0 +1,18 @@
+{
+  "death.attack.slashing": "%1$s was slashed by %2$s",
+  "death.attack.slashing.player": "%1$s was slashed by %2$s using %3$s",
+  "death.attack.blunt": "%1$s experienced blunt force trauma by %2$s",
+  "death.attack.blunt.player": "%1$s experienced blunt force trauma by %2$s using %3$s",
+  "death.attack.piercing": "%1$s was pierced by %2$s's weapon",
+  "death.attack.piercing.player": "%1$s was pierced by %2$s using %3$s",
+  "tooltip.rlcombat.shield_power" : "Shielding Power: %s",
+  "tooltip.rlcombat.damage_type" : "Damage type: ",
+  "tooltip.rlcombat.resistance" : "damage taken from %s sources.",
+  "rlcombat.damage_type.slashing": "Slashing",
+  "rlcombat.damage_type.blunt": "Blunt",
+  "rlcombat.damage_type.piercing": "Piercing",
+  "rlcombat.damage_type.dragon_fire": "Elemental Fire",
+  "rlcombat.damage_type.dragon_ice": "Elemental Ice",
+  "rlcombat.damage_type.dragon_lightning": "Elemental Lightning",
+  "rlcombat.damage_type.player_attack": "Unknown"
+}

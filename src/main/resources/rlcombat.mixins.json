@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.rlcombat.forge.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "rlcombat.refmap.json",
+  "client": [
+    "RightClickMixin",
+    "HandMixin"
+  ],
+  "mixins": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
